@@ -4,7 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.mpdevelopment.actify",
     "sha256_cert_fingerprints":
-    ["52:64:5D:44:6C:16:BD:41:3A:AD:44:EB:AA:DB:25:55:DC:C6:34:99:C7:01:79:4E:71:C2:37:40:8B:72:95:02"]
+    ["52:64:5D:44:6C:16:BD:41:3A:AD:44:EB:AA:DB:25:55:DC:C6:34:99:C7:01:79:4E:71:C2:37:40:8B:72:95:02","07:13:32:6D:F8:E2:77:D1:54:3B:CB:D3:4A:7F:C6:6C:B6:52:CD:34:84:46:2A:A0:B4:DD:A9:41:14:57:15:49"]
   }
 },{
   "relation": ["delegate_permission/common.handle_all_urls"],
